@@ -54,7 +54,9 @@ def findPasswordStrength(password):
 > Space : O(1), constant space.
 
 <br />
-To know how the password is split to find the strength, refer [solution.](passwordStrength.py "Password Strength")
+To know how the password is split to find the strength, refer [solution](passwordStrength.py "Password Strength")
+
+
 
 
 
