@@ -19,8 +19,10 @@ This password can be divided into 6 subsegments: "this", "is", "be", "aut", "if"
 <br />
 
 
-## **Test Cases**
+## **Test Cases -**
 <br />
+
+
 * Input - 'thisisbeautiful' | Output - 6 | Segments - ['thi', 'si', 'sbe', 'aut', 'if', 'ul']
 * Input - 'aeiou'           | Output - 0 | Segments - [] 
 * Input - 'rhythm'          | Output - 0 | Segments - []
