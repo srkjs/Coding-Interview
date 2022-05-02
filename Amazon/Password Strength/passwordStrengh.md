@@ -21,11 +21,12 @@ This password can be divided into 6 subsegments: "this", "is", "be", "aut", "if"
 
 ## **Test Cases**
 <br />
-1. Input - 'thisisbeautiful' | Output - 6 | Segments - ['thi', 'si', 'sbe', 'aut', 'if', 'ul']
-2. Input - 'aeiou'           | Output - 0 | Segments - [] 
-3. Input - 'rhythm'          | Output - 0 | Segments - []
-4. Input - 'abcdfg'          | Output - 1 | Segments - ['abcdfg']
-5. Input - 'zyxwvuu'         | Output - 1 | Segments - ['zyxwvuu']
+* Input - 'thisisbeautiful' | Output - 6 | Segments - ['thi', 'si', 'sbe', 'aut', 'if', 'ul']
+* Input - 'aeiou'           | Output - 0 | Segments - [] 
+* Input - 'rhythm'          | Output - 0 | Segments - []
+* Input - 'abcdfg'          | Output - 1 | Segments - ['abcdfg']
+* Input - 'zyxwvuu'         | Output - 1 | Segments - ['zyxwvuu']
+
 
 <br />
 
