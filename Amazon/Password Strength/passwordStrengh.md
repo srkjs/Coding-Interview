@@ -42,4 +42,4 @@ def findPasswordStrength(password):
 <br />
 To know how the password is split to find the strength, refer
 
-[solution](/passwordStrength.py "Password Strength").
+[solution](Amazon/Password Strength/passwordStrength.py "Password Strength").
